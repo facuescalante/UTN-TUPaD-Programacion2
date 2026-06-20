@@ -50,12 +50,19 @@ Se implementan operaciones CRUD completas y relaciones entre entidades, garantiz
 ## 📸 Capturas de Ejemplo
 Incluye imágenes del sistema funcionando:
 - Menú principal en consola
+  
   <img width="476" height="412" alt="Captura de pantalla (1410)" src="https://github.com/user-attachments/assets/033398b5-55a1-437e-8359-72ef428d366a" />
+  
 - Creación de usuario
+  
   <img width="1247" height="689" alt="Captura de pantalla (1411)" src="https://github.com/user-attachments/assets/8d33c16f-e0fe-4bc5-a206-3cf4a286a158" />
+  
 - Creación de producto
+  
   <img width="952" height="761" alt="Captura de pantalla (1412)" src="https://github.com/user-attachments/assets/5443f853-2971-49b4-8895-9f189a3d3067" />
+  
 - Flujo completo de pedido (crear, agregar detalle, cambiar estado, definir forma de pago)
+  
   <img width="1053" height="474" alt="Captura de pantalla (1413)" src="https://github.com/user-attachments/assets/4f32f6b7-1ce1-4184-bb64-7a176b908f45" />
   <img width="693" height="635" alt="Captura de pantalla (1414)" src="https://github.com/user-attachments/assets/26ca315c-c41f-45c3-ad5a-62dbe6851aa5" />
   <img width="931" height="575" alt="Captura de pantalla (1417)" src="https://github.com/user-attachments/assets/545afebe-83e5-4227-ba8f-4e252d45ea8f" />
