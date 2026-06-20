@@ -14,7 +14,4 @@ Se implementan operaciones CRUD completas y relaciones entre entidades (por ejem
 
 ---
 
-## ▶️ Ejecución
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/usuario/proyecto-prog2.git
+
