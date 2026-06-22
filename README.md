@@ -73,8 +73,8 @@ Incluye imágenes del sistema funcionando:
 ---
 
 ## 📹 Video Demostración
-El video explicativo (10–15 minutos) mostrando el flujo completo del sistema se encuentra en:  
-[Link al video](https://link-al-video.com)  
+El video explicativo mostrando el flujo completo del sistema se encuentra en:  
+[Link al video](https://www.canva.com/design/DAHNJTLTsag/MwvVhsvztZmoxKo8i7p8hQ/watch?utm_content=DAHNJTLTsag&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h13c8cff427)  
 
 ---
 
